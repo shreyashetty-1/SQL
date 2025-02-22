@@ -1,5 +1,5 @@
 # SQL
-![5d6566a9-3f98-4d69-82c4-0baf74d1e1b7](https://github.com/user-attachments/assets/a3f1bbe8-5d7d-4747-9dec-3cd1ebc92346)
+
 ![15893e74-4410-4fbe-9998-95c613f21733](https://github.com/user-attachments/assets/5d0294ec-92ca-49c7-b6ea-17fca7998ce7)
 
 ![5f3394c8-3ac4-4f9f-b5c1-3775574c334c](https://github.com/user-attachments/assets/5bfecf77-8498-481c-9f91-b5b9c3874476)
